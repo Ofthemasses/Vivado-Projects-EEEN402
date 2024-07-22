@@ -1,0 +1,8 @@
+Tutorial*/
+eeen402*/*
+
+*.swp
+*.swo
+
+!eeen402*/**/*.xpr
+!eeen402*/**/*.srcs/
